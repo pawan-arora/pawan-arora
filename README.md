@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-arora&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-arora" /> </p>
 
-- 🔭 In my last professional IT experience, I worked as a technical lead in Credable Noida in **Fintech domain** project.
+- 🔭 In my last professional IT experience, I worked as a technical lead in **Credable** Noida in **Fintech domain** project.
 
 - 🌱 I’m currently learning **Aws, GoLang**
 
