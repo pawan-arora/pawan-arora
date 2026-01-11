@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-arora&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-arora" /> </p>
 
-- 🔭 In my last professional IT experience, I worked as a technical lead in **Credable** Noida in **Fintech domain** project.
+- 🔭 In my last professional IT experience, I last worked as a technical lead in **Credable** Noida in **Fintech domain** project.
 
-- 🌱 I’m currently learning **Aws, GoLang**
+- 🌱 I’m currently learning **Flutter, cloud technologies, various design patterns**
 
 - 💬 Ask me about **Java, Microservices, Spring boot, MySql**
 
 - 📫 How to reach me **pawan.arora1602@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I look serious but I am not😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
