@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan-arora&label=Profile%20views&color=0e75b6&style=flat" alt="pawan-arora" /> </p>
 
-- 🔭 In my last professional IT experience, I last worked as a technical lead in **Credable** Noida in **Fintech domain** project.
+- 🔭 Formerly a Technical Lead at **Credable** in Noida, where I specialized in architecting scalable solutions for the **Fintech sector**.
 
 - 🌱 I’m currently learning **Flutter, cloud technologies, various design patterns**
 
