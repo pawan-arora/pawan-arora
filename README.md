@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, cloud technologies, various design patterns**
 
-- 💬 Ask me about **Java, Microservices, Spring boot, MySql**
+- 💬 Ask me about **Java, Microservices, Spring boot, Docker, MySql**
 
 - 📫 How to reach me **pawan.arora1602@gmail.com**
 
